@@ -4,7 +4,7 @@ version = "0.0.1"
 authors = [
   { name="rjchiba", email="ryuji.chiba.5185@gmai.com" },
 ]
-description = "Manage shapshots of local administration and visualization"
+description = "Manage snapshots of local administration and visualization"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/RjChiba/LocalAdminSnap"
+"Bug Tracker" = "https://github.com/RjChiba/LocalAdminSnap/issues"
